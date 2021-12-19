@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pappy04
-- 👀 I’m interested in ...
+- 👀 I’m interested in anything technology
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on any beginner friendly project
 - 📫 How to reach me twitter @pappy04
